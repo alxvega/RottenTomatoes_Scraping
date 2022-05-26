@@ -1,0 +1,2161 @@
+[
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072ae4"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/facing_nolan", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(100), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "If you are any sort of baseball fan, you will love this in depth documentary. Being a Houston native I already thought Nolan Ryan was amazing, but this just opened my eyes so much more. I couldn't recommend this more. I'm so glad I had the chance to see it!", 
+        "This was the best documentary I have ever seen!\nI already was a huge Nolan Ryan as a baseball player fan but I am a bigger fan of him as a regular human and family man now.  This was an incredibly made documentary with so many baseball legends.  I can't wait until it comes out on DVD.", 
+        "Very well done!  Great clips from the past!", 
+        "It was a well made documentary on the outstanding career of Nolan Ryan! You dont have to be a baseball fan to enjoy this film.", 
+        "If you are a baseball fan, this is a great story about one of the greatest pitchers off all time.  It covers his flaws, his dominance, and his family.  It's great story.", 
+        "Excellent movie of family values, friends and baseball life.", 
+        "Loved this movie!  Huge fan and this movie was spot on!", 
+        "An absolute MUST-WATCH movie for everyone in the family. Baseball fans. Fans of Americana. Just a great great movie.", 
+        "This film does a great job telling the Nolan Ryan story. I would recommend this documentary to any baseball fan!", 
+        "Excellent look at how and why Nolan became The Express!"
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(96), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Bradley Jackson", 
+            "Producer" : "Russell Wayne Groves", 
+            "Genres" : "Documentary, Biography", 
+            "Release-date" : "May 24, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/facing_nolan", 
+    "Title" : "Facing Nolan", 
+    "URL" : "https://www.rottentomatoes.com/m/facing_nolan"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072ae5"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/top_gun_maverick", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(99), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "The initial character setup slightly off but after that this was completely great.", 
+        "The best movie I have seen in the last 10+ years.  Original story and screenplay, jaw dropping action sequences, great character development, edge of your seat climactic moments, great themes, and times of sadness, happiness, laughter, and conflict.   Overall a memorable and impactful movie that is best seen in the theaters where you can feel the sound vibrations coming from the planes as they take off on there missions and also pull of some amazing feats in the sky thereby making you feel like you are there in a sense.", 
+        "EPIC!  just as good as the first one!", 
+        "Holy crap!!!! Just go see it. Still overwhelmed.", 
+        "Loved the jets. Amazing cinematography. Didn’t understand the love interest story line. Guessing it came from a short storyline about an Admirals daughter in the first movie but don’t think they explained it well and seemed fake. That’s the reason why 4 1/2 stars instead of 5.", 
+        "Better than the first, and with a well matured Maverick.", 
+        "It was fantastic. Any fan of the original, or of flying will love it. Tom Cruise is great (and I'm not a big fan), great cast and non-stop action. Highly recommended!", 
+        "Hard to beat the first,  but they did", 
+        "Great and perfect movie for anyone!", 
+        "Excellent justice to the original.  Yes, tears will flow in parts, but not really what you expect.  The action was second to none.  Almost feel like you're in the cockpit!!!"
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(97), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Joseph Kosinski", 
+            "Producer" : "Jerry Bruckheimer, Tom Cruise, Christopher McQuarrie, David Ellison", 
+            "Genres" : "Action, Adventure", 
+            "Release-date" : "May 27, 2022 wide"
+        }
+    ], 
+    "Movie_slug" : "/m/top_gun_maverick", 
+    "Title" : "Top Gun: Maverick", 
+    "URL" : "https://www.rottentomatoes.com/m/top_gun_maverick"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072ae6"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/the_bobs_burgers_movie", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(90), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Loren Bouchard, Bernard Derriman", 
+            "Producer" : "Janelle Momary-Neely, Loren Bouchard, Nora Smith", 
+            "Genres" : "Animation, Comedy, Mystery & thriller", 
+            "Release-date" : "May 27, 2022 wide"
+        }
+    ], 
+    "Movie_slug" : "/m/the_bobs_burgers_movie", 
+    "Title" : "The Bob's Burgers Movie", 
+    "URL" : "https://www.rottentomatoes.com/m/the_bobs_burgers_movie"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072ae7"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/18_1_2", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(85), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Dan Mirvish", 
+            "Producer" : "Terry Keefe, Dan Mirvish, Daniel Moya", 
+            "Genres" : "Comedy, Mystery & thriller, Drama", 
+            "Release-date" : "May 27, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/18_1_2", 
+    "Title" : "18 1/2", 
+    "URL" : "https://www.rottentomatoes.com/m/18_1_2"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072ae8"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/dinner_in_america", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(92), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Adam Rehmeier", 
+            "Producer" : "Nicholas Weinstock, Ross Putman, David Hunter, John Covert, Sam Slater, Ben Stiller", 
+            "Genres" : "Comedy, Drama", 
+            "Release-date" : "Jun 7, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/dinner_in_america", 
+    "Title" : "Dinner in America", 
+    "URL" : "https://www.rottentomatoes.com/m/dinner_in_america"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072ae9"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/playlist", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(83), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Nine Antico", 
+            "Producer" : "Mathieu Verhaeghe, Thomas Verhaeghe", 
+            "Genres" : "Comedy", 
+            "Release-date" : "May 27, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/playlist", 
+    "Title" : "Playlist", 
+    "URL" : "https://www.rottentomatoes.com/m/playlist"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072aea"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/a_taste_of_whale", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(0), 
+    "Critics_sentiment" : "", 
+    "Metadata" : [
+        {
+            "Director" : "Vincent Kelner", 
+            "Producer" : "Rémi Grellety", 
+            "Genres" : "Documentary", 
+            "Release-date" : "May 27, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/a_taste_of_whale", 
+    "Title" : "A Taste of Whale", 
+    "URL" : "https://www.rottentomatoes.com/m/a_taste_of_whale"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072aeb"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/a_chiara", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(95), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Jonas Carpignano", 
+            "Producer" : "Jonas Carpignano, Julie Billy, Paolo Carpignano, Jon Coplon, Eva Jakobsen, Katrin Pors, Carole Scotta, Ryan Zacarias", 
+            "Genres" : "Drama", 
+            "Release-date" : "May 27, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/a_chiara", 
+    "Title" : "A Chiara", 
+    "URL" : "https://www.rottentomatoes.com/m/a_chiara"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072aec"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/fanny_the_right_to_rock", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(100), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Bobbi Jo Hart", 
+            "Producer" : "Bobbi Jo Hart, Robbie Hart", 
+            "Genres" : "Music, Documentary", 
+            "Release-date" : "May 27, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/fanny_the_right_to_rock", 
+    "Title" : "Fanny: The Right to Rock", 
+    "URL" : "https://www.rottentomatoes.com/m/fanny_the_right_to_rock"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072aed"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/zero_contact", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(0), 
+    "Critics_sentiment" : "", 
+    "Metadata" : [
+        {
+            "Director" : "Rick Dugdale", 
+            "Producer" : "Cam Cannon, Rick Dugdale, Peter Toumasis", 
+            "Genres" : "Mystery & thriller", 
+            "Release-date" : "May 27, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/zero_contact", 
+    "Title" : "Zero Contact", 
+    "URL" : "https://www.rottentomatoes.com/m/zero_contact"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072aee"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/rite_of_the_shaman", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(0), 
+    "Critics_sentiment" : "", 
+    "Metadata" : [
+        {
+            "Director" : "Alicia Oberle Farmer", 
+            "Producer" : "Alicia Oberle Farmer, John D. Farmer, Annette Coester, Jd Allen, Albert Spencer-Wise, Janice Spencer-Wise, Trish Walker, Erin Bloom Davenport, Kim Stone", 
+            "Genres" : "Drama", 
+            "Release-date" : "May 27, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/rite_of_the_shaman", 
+    "Title" : "Rite of the Shaman", 
+    "URL" : "https://www.rottentomatoes.com/m/rite_of_the_shaman"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072aef"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/there_are_no_saints", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(33), 
+    "Critics_sentiment" : "negative", 
+    "Metadata" : [
+        {
+            "Director" : "Alfonso Pineda Ulloa", 
+            "Producer" : "Santiago Garcia Galvan, Alex Garcia, Jose Martinez Jr.", 
+            "Genres" : "Action, Mystery & thriller, Crime", 
+            "Release-date" : "May 27, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/there_are_no_saints", 
+    "Title" : "There Are No Saints", 
+    "URL" : "https://www.rottentomatoes.com/m/there_are_no_saints"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072af0"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/dum_mastam", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(0), 
+    "Critics_sentiment" : "", 
+    "Metadata" : [
+        {
+            "Director" : "Ehteshamuddin", 
+            "Producer" : "Akhtar Husnain, Adnan Siddiqui", 
+            "Genres" : "Drama, Romance", 
+            "Release-date" : "May 27, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/dum_mastam", 
+    "Title" : "Dum Mastam", 
+    "URL" : "https://www.rottentomatoes.com/m/dum_mastam"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072af1"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/erzulie", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(0), 
+    "Critics_sentiment" : "", 
+    "Metadata" : [
+        {
+            "Director" : "Christine Chen", 
+            "Producer" : "not available", 
+            "Genres" : "Fantasy, Adventure", 
+            "Release-date" : "Jun 14, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/erzulie", 
+    "Title" : "Erzulie", 
+    "URL" : "https://www.rottentomatoes.com/m/erzulie"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072af2"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/the_tsugua_diaries", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(76), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Maureen Fazendeiro, Miguel Gomes", 
+            "Producer" : "Luís Urbano, Filipa Reis, Sandro Aguilar, João Miller Guerra", 
+            "Genres" : "Drama", 
+            "Release-date" : "May 27, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/the_tsugua_diaries", 
+    "Title" : "The Tsugua Diaries", 
+    "URL" : "https://www.rottentomatoes.com/m/the_tsugua_diaries"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072af3"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/dakuaan_da_munda_2", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(0), 
+    "Critics_sentiment" : "", 
+    "Metadata" : [
+        {
+            "Director" : "Mandeep Benipal", 
+            "Producer" : "Ravneet Kaur Chahal, Rajesh Kumar Arora, Ashu Munish Sahni", 
+            "Genres" : "Action, Biography, Drama", 
+            "Release-date" : "May 27, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/dakuaan_da_munda_2", 
+    "Title" : "Dakuaan Da Munda 2", 
+    "URL" : "https://www.rottentomatoes.com/m/dakuaan_da_munda_2"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072af4"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/anek", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(0), 
+    "Critics_sentiment" : "", 
+    "Metadata" : [
+        {
+            "Director" : "Anubhav Sinha", 
+            "Producer" : "Bhushan Kumar, Krishan Kumar, Anubhav Sinha", 
+            "Genres" : "Mystery & thriller, Action", 
+            "Release-date" : "May 27, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/anek", 
+    "Title" : "Anek", 
+    "URL" : "https://www.rottentomatoes.com/m/anek"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072af5"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/doctor_strange_in_the_multiverse_of_madness", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(86), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "This was an amazing movie.  I highly recommend. Make sure you stay post-credits because there is a teaser scene you do not want to miss.  Great story line and connects well with other Marvel movies and shows.  Highly recommend!", 
+        "Visually epic. Decent story. B+ on the Marvel scale of story-telling.", 
+        "Another great Marvel movie, liked the interaction with the characters of the Marvel universe :)", 
+        "The movie delivered as promised.  It risked being overlong, but key aspects of the Marvel universe were finally displayed and in grand style.  There is promise for an ongoing storyline.  Cumberbatch remains perfectly cast.  A wee bit tired of the Phoenix/Wanda over-powered sags.  Looking forward to seeing demons thwarted!", 
+        "The experience was very exciting with the moving sits", 
+        "This film was INCREDIBLE!!! My wife and I are fans of the MCU. We LOVED the first one and didn't think the second one would be better. How wrong we were. It had lots of action and plenty of horror. We loved the horror aspect of the movie. Sam Raimi did an unbelievable job. We are also fans of Raimi's. If you haven't seen it yet, take our advice and see it in the theater. You won't be disappointed. Also, the ending will put you on the edge of your seat. We just seen this and can't wait for the next one. Congrats to Sam Raimi, Marvel, and Kevin Feige on a great piece of work!. Trust us when we say you will be really disappointed if you don't see it in the theater.", 
+        "love the plot multiple universe's  surprised by horror the images and themes.", 
+        "10/10 everything you can possibly hope it would be!", 
+        "So good I saw it twice, once in IMAX 3D and once in Digital 3D.  My favorite Marvel movie yet.  You may want to watch Dr, Strange and Wanda Vision beforehand if you've never seen them or rewatch them if it's been a while since you saw them to refresh your memory.  It's a great mix of action, horror, and comedy with stunning visuals.", 
+        "After paying a premium price to watch Dr Strange at the Jersey Gardens AMC Dolby Theater, I was disappointed by how badly the sound system was maintained. The front speaker volume was so loud as be distorted and out of balance with the acoustics of the theater. My ears are still ringing!  This was not realistic sound. It was badly set up sound. Voices were strained and unnatural.  Too bad, maybe AMC should send one of their techs to my place to experience how good a well-balanced Dolby Atmos set up can sound. Worse, the sound cut out entirely for five minutes during a key segment of the movie. Probably from having blown a circuit breaker!  Disappointed."
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(74), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Sam Raimi", 
+            "Producer" : "Kevin Feige", 
+            "Genres" : "Action, Adventure, Fantasy", 
+            "Release-date" : "May 6, 2022 wide"
+        }
+    ], 
+    "Movie_slug" : "/m/doctor_strange_in_the_multiverse_of_madness", 
+    "Title" : "Doctor Strange in the Multiverse of Madness", 
+    "URL" : "https://www.rottentomatoes.com/m/doctor_strange_in_the_multiverse_of_madness"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072af6"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/downton_abbey_a_new_era", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(97), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "Nice show especially for those of us who like period pieces", 
+        "Love the characters and being in that world.", 
+        "It was well done. I liked it better than the 1st one", 
+        "Really enjoyed the movie!", 
+        "Lots of happy beginnings, and some predictable sad endings. Was so very glad to see Thomas finally happy.. Great ending. Loved it!!!", 
+        "Such a wonderful story line for the major characters. The only part I didn't like was Thomas, but even that was tastefully done. This movie had me both laughing and crying.", 
+        "If you watched and loved all of Downton Abbey and the first movie, you must see this one too.", 
+        "Very refreshing vs action pack movie. Glad the wife and I had the chance to see it. I was shock not to see many people there but it was a 1:00 showing.", 
+        "I like all things Downton, but this one was weak. Corny story lines and actors could have tried harder to be convincing.", 
+        "I loved everything:  the plot, the acting, and the scenery.  It was so beautifully done!"
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(84), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Simon Curtis", 
+            "Producer" : "Gareth Neame, Liz Trubridge, Julian Fellowes", 
+            "Genres" : "Drama", 
+            "Release-date" : "May 20, 2022 wide"
+        }
+    ], 
+    "Movie_slug" : "/m/downton_abbey_a_new_era", 
+    "Title" : "Downton Abbey: A New Era", 
+    "URL" : "https://www.rottentomatoes.com/m/downton_abbey_a_new_era"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072af7"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/the_bad_guys_2022", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(93), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "Cute movie with a good message.", 
+        "cute fun movie, good for small kids", 
+        "Well done, everyone aged 5 to 14 to 43 had a good time so definitely good for the family!", 
+        "Non-stop action!  Lots of twists and turns!", 
+        "beautiful animation, fantastic character design, great physical comedy and dialogue comedy. One reveal did feel too sudden, and a few minor grievances. Definitely a much watch in theaters.", 
+        "very adorable, funny movie.", 
+        "If you like heist movies, Ocean's movie series, then this movie is made for you!", 
+        "Very cute with a positive message about being judgmental.  Sam Rockwell & Awkwafina are standouts.", 
+        "it's was a great movie. Everybody should go watch it!!!!! 💯💯💯👍👍👍", 
+        "Cute movie! Loved it!"
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(88), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Pierre Perifel", 
+            "Producer" : "Rebecca Huntley, Damon Ross", 
+            "Genres" : "Kids & family, Comedy, Adventure, Animation", 
+            "Release-date" : "Apr 22, 2022 wide"
+        }
+    ], 
+    "Movie_slug" : "/m/the_bad_guys_2022", 
+    "Title" : "The Bad Guys", 
+    "URL" : "https://www.rottentomatoes.com/m/the_bad_guys_2022"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072af8"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/sonic_the_hedgehog_2", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(96), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "Really good movie with messages of friendships and never giving up.", 
+        "This was Sonics moment as both a hero and a successful movie franchise.", 
+        "So funny! It was also rated very appropriately. My 8 year old loved it!", 
+        "I thought it was a good movie, loved the puns!", 
+        "My son and I both enjoyed this Sonic 2! Loved the 2 new hedgehogs .", 
+        "Very entertaining , can't wait to see next one !", 
+        "My kids loved it. Total Action", 
+        "indubitably so fresh: absolute must see. SA-2 on helicopter and GUNS maybe 3 will be based on sa2b\nalso the part where the Russian guy blesses his tattoo made me laugh a lot. full of great references that im not too sure the younger audience will understand but I, a 24 year old man enjoyed quite a lot", 
+        "I loved this movie💙", 
+        "Very good and it brought my childhood memories back."
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(69), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Jeff Fowler", 
+            "Producer" : "Neal H. Moritz, Toby Ascher, Toru Nakahara, Hitoshi Okuno", 
+            "Genres" : "Fantasy, Adventure, Comedy", 
+            "Release-date" : "May 24, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/sonic_the_hedgehog_2", 
+    "Title" : "Sonic the Hedgehog 2", 
+    "URL" : "https://www.rottentomatoes.com/m/sonic_the_hedgehog_2"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072af9"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/men_2022", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(43), 
+    "Audience_sentiment" : "negative", 
+    "Comments" : [
+        "Alex Garland is the most tedious filmmaker in a24's roster after maybe Ari Aster. A smug, empty, navel-gazing exercise in allyship that we used to buy wholesale from dudes like Alex Garland before we learned better (e.g. if a dude is this desperate to let you know that he's \"one of the good ones\" -- get as far away as you can). Bad pacing and choppy editing only serve to expose how empty-headed and one-note the script is. His only critique is \"men bad\" which, like, yeah and? There's no elaboration or insight, just tepid satire of the lowest order. On top of all that, Garland doesn't seem to know if he's making a body horror movie, a folk horror movie or a cosmic horror movie and as a result the thing just gets all mangled up. It's got that standard A24 sheen (which: yuck), but don't let that fool you: this movie is a mess and you'll spend 100 minutes wishing you were doing just about anything else.", 
+        "Some of the visuals need a little touch up and when they came up took me out of the story for a moment but overall it was really good. Creepy, unexpected, and reminded me of some of my weirdest nightmares. I wish more time was spent on explaining our characters motivations but I see the creators reasoning for not", 
+        "Definitely a unique film. Expected to be really shocked and confused due to the other reviews. For the horror genre it was actually quite normal. Cinematography was solid. Really enjoyed what it tried to do. The ending could’ve driven the point home more or given the audience more but it’s also great because it’s open to interpretation. Worth a watch", 
+        "Very confusing but good", 
+        "The story made no sense whatsoever!", 
+        "I was not clear on the ending , I thought that everything was just in her imagination.", 
+        "Did not care for this at all.  Disappointed.   It wasn't as scary as it was more psychologically weird than anything.", 
+        "Definitely not a film that's for everybody. The film is heavily metaphorical and if you can bear with on that then you may be able to enjoy or at the very least get through. for me this movie might require a few watches before I can say or even interpret what it means. it's not exactly clear but it is a horror-ish nightmare of a scenario and I was able to enjoy it on that.", 
+        "WTF DID I JUST WATCH???", 
+        "Second half is bad not a fun watch"
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(74), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Alex Garland", 
+            "Producer" : "Andrew Macdonald, Allon Reich, Scott Rudin, Eli Bush", 
+            "Genres" : "Horror, Drama, Sci-fi", 
+            "Release-date" : "May 20, 2022 wide"
+        }
+    ], 
+    "Movie_slug" : "/m/men_2022", 
+    "Title" : "Men", 
+    "URL" : "https://www.rottentomatoes.com/m/men_2022"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072afa"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/everything_everywhere_all_at_once", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(90), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "An amazing film, not what I expected. Very fast paced playing with some serious personal issues using the idea of multiple or parallel realities which are getting some serious consideration in the Quantum world. I can't say I followed it completely and I want to see it again. It seemed to be a science fiction ,psychological introspection ,time travel, love story, mother/daughter ,kung fu psychedelic trip with sex toys! A masterpiece of film editing. It left an impression for sure .Kind of a WTF feeling.........", 
+        "maybe the perfect movie", 
+        "Very interesting movie", 
+        "This movie is PERFECT!\nThe Daniels are GENIUS!", 
+        "A little bit all over the place with the plot (I suppose that fits the title), which left some segments leaving you feeling a bit lost as to what is even going on, but I thought overall it balanced the comedy and the emotions really well and had a very strong ending that tied most of what was happening together while also doing a really good job of exploring existential and philosophical questions in life.", 
+        "This movie is stupid good! Third time watching it in theaters and I'm still noticing new things and experiencing the emotions/laughs like the first time I saw it. This movie has a little bit of everything. It is a must watch!", 
+        "best movie I've ever seen in my life. it's like they made it for me. I now feel not so alone on this earth knowing it's others like me", 
+        "Haven't had a movie like this in a while. Made me cry. Also great way to do science fiction with a lot of confusion. Haven't seen a great sci fi movie in a while like this. I don't know that it made all that sense..but it wasn't necessary.", 
+        "Took a little while to get rolling, but it's one of those movies that has so much in it I'll probably have to see it again (and again?). I get the feeling that my graduate-level QM course is going to make my head spin similarly.\nLove the cast!", 
+        "Great movie although a little hard to understand at points."
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(95), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Dan Kwan, Daniel Scheinert", 
+            "Producer" : "Joe Russo, Anthony Russo, Mike Larocca, Dan Kwan, Daniel Scheinert, Jonathan Wang", 
+            "Genres" : "Sci-fi, Drama, Comedy, Adventure, Fantasy", 
+            "Release-date" : "Apr 8, 2022 wide"
+        }
+    ], 
+    "Movie_slug" : "/m/everything_everywhere_all_at_once", 
+    "Title" : "Everything Everywhere All at Once", 
+    "URL" : "https://www.rottentomatoes.com/m/everything_everywhere_all_at_once"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072afb"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/firestarter_2022", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(46), 
+    "Audience_sentiment" : "negative", 
+    "Comments" : [
+        "Too short of movie for character development. Montage of mastering powers in short time period by self seems improbable.", 
+        "It's a ok film..burn them all", 
+        "the original Firestarter was my favorite movie as a kid and they absolutely murdered it with this remake. I'm usually not a person to not like a movie but this was absolutely horrible not only as a remake but as movie general, do not waste your time.", 
+        "Typical Stephen King movie, the kind I like. Pretty good.", 
+        "I think that she should have been trained to use her gifts by one of the parents or my someone", 
+        "The filter that the director used in the film made it appear really dark and didn't give the film that desired effect.   Daylight looked really dark and shouldn't have.", 
+        "I enjoyed the movie from beginning to end. A lot of action.", 
+        "was a suspenseful movie lived up to the original", 
+        "Great movie! Love blumhouse films 6/10 rating", 
+        "Hated the ending.  So many issues with this remake."
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(11), 
+    "Critics_sentiment" : "negative", 
+    "Metadata" : [
+        {
+            "Director" : "Keith Thomas", 
+            "Producer" : "Jason Blum, Akiva Goldsman", 
+            "Genres" : "Horror, Mystery & thriller, Drama, Sci-fi", 
+            "Release-date" : "May 13, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/firestarter_2022", 
+    "Title" : "Firestarter", 
+    "URL" : "https://www.rottentomatoes.com/m/firestarter_2022"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072afc"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/fantastic_beasts_the_secrets_of_dumbledore", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(83), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "So much from the books they are leaving out! I mean I understand its to get people to actually READ but man you would think more would be revealed about Dumbledore and the business with the wands! The battles were very cool and learning more about the politics of the wizarding world was meh! Just seems the storyline and characters were too quickly put together. So if you want to know more of the story of Dumbledore you will have to go through the Deathly Hallows books!", 
+        "thos was by far the best of the series. The cinematography was so beautiful and captivating.  I couldn't keep my eyes off the screen.", 
+        "Loved it. Great cast", 
+        "Fantastic acting, great special effects, wonderful story for HP fans!", 
+        "Great storyline, usage of CG and well acted. I was surprised that Grindelwald was not eliminated in the film. Are you planning another film to continue the storyline prior to the Harry Potter time-frame?", 
+        "Fun prequel to Harry Potter series.  Jude Law a great choice for the young Albus Dundledorm.", 
+        "great addition to the story! can't wait for the next one.", 
+        "Loved the whole thing from the new creature's to confirming my theories.", 
+        "it was good story telling but i think that we need some more harry potter references why because its the wizarding world", 
+        "wasnt suitable for kids. walked out after an hour because 1 kid fell asleep and the other was bored and wanted to go home."
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(47), 
+    "Critics_sentiment" : "negative", 
+    "Metadata" : [
+        {
+            "Director" : "David Yates", 
+            "Producer" : "David Heyman, Steve Kloves, Tim Lewis, J.K. Rowling, Lionel Wigram", 
+            "Genres" : "Adventure, Fantasy", 
+            "Release-date" : "Apr 15, 2022 wide"
+        }
+    ], 
+    "Movie_slug" : "/m/fantastic_beasts_the_secrets_of_dumbledore", 
+    "Title" : "Fantastic Beasts: The Secrets of Dumbledore", 
+    "URL" : "https://www.rottentomatoes.com/m/fantastic_beasts_the_secrets_of_dumbledore"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072afd"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/the_lost_city", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(83), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "I was so excited for this movie with 2 of my favorite actors and actress in lead roles and they did not disappoint.   I laughed out loud alot and really liked the storyline.", 
+        "Loved the action, the humor & story line.\nMostly the main actors!!!", 
+        "Great cinematography and good acting", 
+        "Funny, cute, good chemistry.. really liked it.", 
+        "Good balance of adventure & humor. Great cast. Very entertaining.", 
+        "A good family film with great actors and subtle humor", 
+        "Horrible.  I loved the original Romancing the Stone.   The Lost City did not have the same charm.  It was extremely boring movie and not funny at all.   The characters had 0.00 chemistry.  This was the first time, in a very long time, that I wanted to leave before the movie was over.", 
+        "Boring, corny jokes, fell asleep :(", 
+        "funny and a great story", 
+        "super funny, loved it"
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(79), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Adam Nee, Aaron Nee", 
+            "Producer" : "Liza Chasin, Sandra Bullock, Seth Gordon", 
+            "Genres" : "Adventure, Action, Comedy, Romance", 
+            "Release-date" : "May 10, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/the_lost_city", 
+    "Title" : "The Lost City", 
+    "URL" : "https://www.rottentomatoes.com/m/the_lost_city"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072afe"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/the_northman", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(63), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "WOW!!! LEFT SPEECHLESS", 
+        "Too dark. Dragged on.", 
+        "Good acting and sets, story a bit convoluted", 
+        "Dark as Norse mythology is, wishing for a sneak peak on the twins future at the end.", 
+        "Bad acting. Too violent, like unnecessarily violent. The movie was extremely uncomfortable to watch from start to finish. Me and my wife almost left the theater", 
+        "The story was great, just needed more Viking violence", 
+        "The presentation and and symbolism is very well done.", 
+        "There are better Viking shows free on TV.", 
+        "Spectacle over storytelling", 
+        "Was a surprise ending"
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(89), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Robert Eggers", 
+            "Producer" : "Robert Eggers, Mark Huffam, Lars Knudsen, Arnon Milchan, Alexander Skarsgård", 
+            "Genres" : "Adventure, Action, Mystery & thriller", 
+            "Release-date" : "May 13, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/the_northman", 
+    "Title" : "The Northman", 
+    "URL" : "https://www.rottentomatoes.com/m/the_northman"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072aff"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/family_camp", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(85), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "I loved the humor and antics of the families. The summer camp activities were fun to watch. There was much to like..", 
+        "wholesome family movie. We really enjoyed it.", 
+        "We loved the movie. Its a good wholesome, godly movie for all to enjoy.  They were times we were laughing and other times, we were crying.  Very good!! We enjoyed ourselves.", 
+        "This movie was family friendly and provides a very positive message about the true meaning of family.", 
+        "Good content, good acting, good theme", 
+        "Is there an option for 0 stars?  Absolutely horrible.  Unless you are incredibly religious and have no sense of humor save yourself the time and money.", 
+        "I liked the movie that it is a family movie with out the cussing words, funny but has a great message.  I wish we have more movies like this.", 
+        "Light entertainment. Good message", 
+        "Not very funny, we left disappointed.", 
+        "Funny, touching, meaningful perfect!"
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(0), 
+    "Critics_sentiment" : "", 
+    "Metadata" : [
+        {
+            "Director" : "Brian Cates", 
+            "Producer" : "Jay Howver, Darren Moorman, Trey Reynolds, Justin Tolley", 
+            "Genres" : "Comedy", 
+            "Release-date" : "May 13, 2022 wide"
+        }
+    ], 
+    "Movie_slug" : "/m/family_camp", 
+    "Title" : "Family Camp", 
+    "URL" : "https://www.rottentomatoes.com/m/family_camp"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b00"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/the_unbearable_weight_of_massive_talent", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(87), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "Funny and self aware, a movie about movies with Nick Cage as himself.", 
+        "We all Loved it  funny", 
+        "loved it!! Hilarious and serious!! I loved all the actors!!! I'm a BIG Cage fan!", 
+        "Absolutely hilarious. Super clever. Definitely going to see again with friends.", 
+        "original bad dumb and stupid is slightly better than seen it already bad.\nwe all suffer with sad actors and directors.", 
+        "Laugh out loud funny.  Nic Cage playing not one but two Nic Cages makes for an amusing laugh at himself good time", 
+        "Hilarious movie! This is a must watch!! Loved it! Second time going to watch this movie in theaters!", 
+        "Funny but dragged some.", 
+        "Love Nicolas Cage -  as in the movie - actors in the world today - fun show", 
+        "Entertainment with several interesting sub themes on the idiosyncrasies of being a star"
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(87), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Tom Gormican", 
+            "Producer" : "Nicolas Cage, Mike Nilon, Kristin Burr, Kevin Turen", 
+            "Genres" : "Action, Comedy", 
+            "Release-date" : "Apr 22, 2022 wide"
+        }
+    ], 
+    "Movie_slug" : "/m/the_unbearable_weight_of_massive_talent", 
+    "Title" : "The Unbearable Weight of Massive Talent", 
+    "URL" : "https://www.rottentomatoes.com/m/the_unbearable_weight_of_massive_talent"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b01"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/memory_2022", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(81), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "They did Neeson dirty in the final act of the film.", 
+        "I disliked the movie being so dark, the \"accents\" that I couldn't understand, and all of the killings and shootings. I couldn't follow the story line, so I don't know what it was all about. I like Liam Neeson, but not in this movie.", 
+        "always like a good Liam movie", 
+        "The acting is great. However, it's about 30 minutes too long. The writing and directing could have been crisper. The first half is very slow, confusing, and boring. It picks up in the second half, but at the end of the day it feels like there's a much better movie here trapped inside a mediocre movie.", 
+        "Whoever says this movie sucks is not to be trusted. Great movie. Great story.", 
+        "good concept but slow movie in my opinion.. I can  see why it wasn't pushed as much as his other films", 
+        "Awesome movie. Excellent job by Liam Neeson as always and cast too.", 
+        "Love this movie. Great story line and a lot of action.", 
+        "Not his type of movies . Hes never the Villain", 
+        "I need to go see more action movies. This movie reminds me why!"
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(30), 
+    "Critics_sentiment" : "negative", 
+    "Metadata" : [
+        {
+            "Director" : "Martin Campbell", 
+            "Producer" : "Cathy Schulman, Moshe Diamant, Rupert Maconick, Michael Heimler, Arthur M. Sarkissian", 
+            "Genres" : "Action, Mystery & thriller", 
+            "Release-date" : "Apr 29, 2022 wide"
+        }
+    ], 
+    "Movie_slug" : "/m/memory_2022", 
+    "Title" : "Memory", 
+    "URL" : "https://www.rottentomatoes.com/m/memory_2022"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b02"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/uncharted_2022", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(90), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "Was a fun happy movie.", 
+        "A great movie. Tom Holland and Mark Walhberg do a great job co-leading the film.", 
+        "Way too many advertisements.  We were ready to leave before the movie came on.  We are there to watch a movie not advertisements.   Please make the experience more enjoyable, reduce the 30 minutes of unneeded or unwanted advertisements!", 
+        "Such a fun and entertaining movie!! Tom Holland is as charming as ever and shows what a bonafide movie star he is. Loved the pacing and there's lots of great action, but the writing and plot could have been better. Am hoping they'll make up for that in the sequel. Def recommend!", 
+        "This was a fun movie. The characters were true to form and one of the protagonists was not perfect.", 
+        "action packed with loads of good clean humor. 👌", 
+        "It was a awesome on the edge of your seat action packed movie!", 
+        "Lots of action and great stunts. 2 very likable lead actors.", 
+        "Good acting, great story. Movie kept me interested and it wasn't super long.", 
+        "Full of action amazing storyline Tom holland and mark wahlburg were a great team"
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(41), 
+    "Critics_sentiment" : "negative", 
+    "Metadata" : [
+        {
+            "Director" : "Ruben Fleischer", 
+            "Producer" : "Charles Roven, Avi Arad, Alex Gartner, Ari Arad", 
+            "Genres" : "Action, Adventure", 
+            "Release-date" : "Apr 26, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/uncharted_2022", 
+    "Title" : "Uncharted", 
+    "URL" : "https://www.rottentomatoes.com/m/uncharted_2022"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b03"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/father_stu", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(95), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "I thought it was a great ‘feel good’  movie plus a true story. I highly recommend it.", 
+        "Fabulous true story that leaves you with all the right ways to express and treat your family and life with understanding, love and support.  A terrific way to respond without judging.", 
+        "A great inspirational message lost in a slow movie. But being a true story it had to be told.", 
+        "I can see why many of the critics panned this movie as they tend to do with so many films with themes that involve God,......unless, of course, it's an anti-God film.  \nHaving said that, the film's message about a man discovering the value and merit of trials and suffering in his life makes this movie a 5-star.  Wahlberg gave his typical good performance while Mel Gibson, in a supporting role, was a standout.  \n\nWhether one philosophically or religiously agrees with the main character at the end of the film or not(btw--I'm not Catholic), the film asks each viewer to make the same analysis of the meaning of suffering, trials and when bad things happen in our own lives, whether our decisions were partly to blame (or, as several of the characters were by their own choices, wholly  to blame) or whether we are victims of circumstance be it parents, auto accidents, etc.  \n\nThough it's not a heart-pounding, thrill ride, Father Stu is a meaningful and inspiring 2-hour watch.", 
+        "wasn't really a good part for Mark", 
+        "A refreshing hollywood movie with a positive message and great story. Hollywood needs to make more movies like this one. A must see!!", 
+        "A real, gritty look at the realities of humanity. Watching Stu so fully give himself to Christ was so moving, but I love that he was still so Stu.", 
+        "Heart felt movie with great acting.", 
+        "Inspiring story, brings you back to your faith in God.", 
+        "Great acting with humor"
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(43), 
+    "Critics_sentiment" : "negative", 
+    "Metadata" : [
+        {
+            "Director" : "Rosalind Ross", 
+            "Producer" : "Mark Wahlberg, Jordon Foss, Stephen Levinson", 
+            "Genres" : "Biography, Drama", 
+            "Release-date" : "Apr 13, 2022 wide"
+        }
+    ], 
+    "Movie_slug" : "/m/father_stu", 
+    "Title" : "Father Stu", 
+    "URL" : "https://www.rottentomatoes.com/m/father_stu"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b04"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/morbius", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(71), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "Meh. It was okay. Visually loved the way Morbius moved though! 10/10 on that! Other than that, this was just okay.", 
+        "pretty intense but it's definitely something new & different", 
+        "I thought it was a great movie!", 
+        "It was a good movie, would have been nice if they went in depth with more of the characters.  It would have been fine even as a generic vampire movie.", 
+        "Lots of  action and good acting!", 
+        "I really enjoyed this movie.", 
+        "Movie was good but not WOW", 
+        "Definitely one of the movies of all time", 
+        "The camera is super shaky at times. Makes it hard to watch sometimes. The action scenes could be a little clearer too. It was hard to see what was happening sometimes.", 
+        "Not as bad as I was led to believe, but not all that great either. Started well, but bogged down (even with some good action and special effects) and ultimately - very thin plot and went nowhere. Plus, what the hell were those tack on scenes during the closing credits? If meant as teasers for a sequel, sorry to disappoint - but there ain't gonna be one."
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(17), 
+    "Critics_sentiment" : "negative", 
+    "Metadata" : [
+        {
+            "Director" : "Daniel Espinosa", 
+            "Producer" : "Avi Arad, Matthew Tolmach, Lucas Foster", 
+            "Genres" : "Action, Fantasy", 
+            "Release-date" : "Apr 1, 2022 wide"
+        }
+    ], 
+    "Movie_slug" : "/m/morbius", 
+    "Title" : "Morbius", 
+    "URL" : "https://www.rottentomatoes.com/m/morbius"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b05"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/ambulance", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(88), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "Movie was great lots of action", 
+        "Awesome super exciting and lots of action!!!!!\nWould see it again", 
+        "This was a great movie", 
+        "Very good movie! Always have liked Michael bay films!!", 
+        "Lots of action and kept you on the edge of your seat.", 
+        "Huge Jake G and Michael Bay fan! Action and fast paced camera angles did not disappoint.", 
+        "Full of action with a little bit of drama as a plot buy not much else to it.", 
+        "Love it! Full of action and suspense.", 
+        "There was definitely a lot of action. The story was a little over the top but deep down it wasnt bad", 
+        "Badass movie! Hated the ending lol"
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(69), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Michael Bay", 
+            "Producer" : "Michael Bay, Bradley J. Fischer, James Vanderbilt, William Sherak, Ian Bryce", 
+            "Genres" : "Action, Mystery & thriller, Crime, Drama", 
+            "Release-date" : "May 24, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/ambulance", 
+    "Title" : "Ambulance", 
+    "URL" : "https://www.rottentomatoes.com/m/ambulance"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b06"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/the_duke", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(85), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "Very entertaining, light with somewhat serious social content", 
+        "Funny, charming, witty story of Britains 1961 Robin Hood", 
+        "A charming period piece well acted and fantastic acting. The English accents can be a bit tricky to follow so be ready to concentrate.", 
+        "Feel good movie albeit predictable. Not a bad way to pass a little over an hour and a half.  Good acting good pacing and before you know it, its over and youll have a smile on your face.", 
+        "Great acting ,  incredible story", 
+        "Loved this movie. Great story, terrific acting!", 
+        "Wonderful story, excellent performances, especially from Jim Broadbent!!", 
+        "From the perspective of an American viewer, The Duke was a typical British movie in that it started very slowly, but built to a wonderful finish.", 
+        "it was too slow. (Very British I guess.)\ni fell asleep.\nMy wife thought it was very good.\nShe was thrilled with the movie.", 
+        "We loved this version of a true story......Helen and Jim did a great job depicting the time and somewhat humorous events."
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(97), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Roger Michell", 
+            "Producer" : "Nicky Bentham", 
+            "Genres" : "Comedy, Drama", 
+            "Release-date" : "Apr 22, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/the_duke", 
+    "Title" : "The Duke", 
+    "URL" : "https://www.rottentomatoes.com/m/the_duke"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b07"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/petite_maman", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(78), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(97), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Céline Sciamma", 
+            "Producer" : "Bénédicte Couvreur", 
+            "Genres" : "Drama", 
+            "Release-date" : "Apr 22, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/petite_maman", 
+    "Title" : "Petite Maman", 
+    "URL" : "https://www.rottentomatoes.com/m/petite_maman"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b08"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/y_como_es_el", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(84), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "With an entertaining mix of emotions this is a great movie you can watch alone, on a date or with your family", 
+        "Creative, entertaining, funny, thoughtful, and excellent acting. definitely worth seeing.", 
+        "I like  Everything about the movie", 
+        "Me encanto la película, me hizo reir muchisimo. 🥰🥰🥰", 
+        "Several new movies this weekend, but I chose #YCómoEsÉl for opening night, specifically for Mauricio Ochmann — he has become one of those few actors whose movies I watch no matter what. They're always good, and he always makes them even better. Humorous, but also heartfelt. #TeamTomás", 
+        "hilarious 😂 a must watch!", 
+        "Excelente película muy entretenida , muy buenas escenas #poder Latino 💪"
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(60), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Ariel Winograd", 
+            "Producer" : "Eugenio Derbez, Ben Odell", 
+            "Genres" : "Comedy", 
+            "Release-date" : "Apr 22, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/y_como_es_el", 
+    "Title" : "¿Y Cómo Es Él?", 
+    "URL" : "https://www.rottentomatoes.com/m/y_como_es_el"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b09"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/the_batman", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(87), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "Waaaaaaaayyyy too long! The entire climax needed to be edited out entirely.", 
+        "Great movie villain kinda weird though", 
+        "very disappointed with the film", 
+        "Nice presentation of a classic story.", 
+        "The most dark and gritty depiction of Gotham city by far. You can feel the city is in desperate need of a hero. I have never seen a Batman that has been so brooding and brutal on-screen before. The film is like a neo-noir superhero film and the story just sucks you in with its detective style. The entire cast did a great job with a great job with bringing these characters to life. As well as, Matt Reeve's giving the audience some great shots of the city and some cool action sequences. I really can't wait for the next chapter in this new Batman trilogy!", 
+        "I enjoyed this movie. I had heard a lot of negative reviews prior to viewing. This production is different than most Batman movies... much darker. Reminded me of The Crow. But overall, very enjoyable. Did not seem like a 3 hour movie to me.", 
+        "Everything aside from Batman and Catwoman was great. The movie would've been much better without them. Had it been limited to James Gordon solving the crime, it may have been a masterpiece.", 
+        "Outstanding but a little long", 
+        "One of the best Batman films ever", 
+        "Some good stuff. Some boring stuff. 50/50 movie."
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(85), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Matt Reeves", 
+            "Producer" : "Dylan Clark, Matt Reeves", 
+            "Genres" : "Action, Adventure, Crime, Drama", 
+            "Release-date" : "Apr 19, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/the_batman", 
+    "Title" : "The Batman", 
+    "URL" : "https://www.rottentomatoes.com/m/the_batman"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b0a"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/on_the_count_of_three", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(76), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "Good movie, kind of heavy", 
+        "It was verrrrry well done and both leading actors killed it - no pun intended 😱😂", 
+        "Loved this movie from start to finish. It is no Hollywood bang bang type of movie but what a great story of love, brotherhood and friendship as well as redemption. I thought this movie was amazing. Loved the noir feel of it peppered with fantastic subtle comedy and even surprise appearances by Tiffany Haddish and Henry Winkler. The only flaw was it was too short. I couldve watched this story unfold all day long. Great performances by the two leading characters. Appreciated the references to race relations and acceptance. This movie goes to show you - you never know what is going on with your neighbor, the person in line at the store next to you or even your own family members. Treat people with kindness as you do not know their circumstances. Great directing debut for Jerrod Carmichael!"
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(85), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Jerrod Carmichael", 
+            "Producer" : "Jerrod Carmichael, Adam Paulsen, David Carrico, Tom Werner, Jake Densen, Ari Katcher, James Price", 
+            "Genres" : "Comedy, Drama", 
+            "Release-date" : "May 13, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/on_the_count_of_three", 
+    "Title" : "On the Count of Three", 
+    "URL" : "https://www.rottentomatoes.com/m/on_the_count_of_three"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b0b"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/pleasure_2022", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(55), 
+    "Audience_sentiment" : "negative", 
+    "Comments" : [
+        "Riveting, Hot, Very Sexual"
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(88), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Ninja Thyberg", 
+            "Producer" : "Sarah Goldberger, Erik Hemmendorff, Eliza Jones, Markus Waltå", 
+            "Genres" : "Drama", 
+            "Release-date" : "May 13, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/pleasure_2022", 
+    "Title" : "Pleasure", 
+    "URL" : "https://www.rottentomatoes.com/m/pleasure_2022"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b0c"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/montana_story", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(50), 
+    "Audience_sentiment" : "negative", 
+    "Comments" : [
+        "Beautiful scenery.  But slowwwww.", 
+        "Slow, story lacks context. You dont feel close to characters. Failure.", 
+        "Not much of a story. Pretty slow movie."
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(89), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Scott McGehee, David Siegel", 
+            "Producer" : "Scott McGehee, Jennifer Roth, David Siegel", 
+            "Genres" : "Drama", 
+            "Release-date" : "May 13, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/montana_story", 
+    "Title" : "Montana Story", 
+    "URL" : "https://www.rottentomatoes.com/m/montana_story"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b0d"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/happening", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(86), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "This French movie is about abortion when this procedure was illegal in the 1960s France, and the law was strictly enforced and everyone was afraid to break it, no doctor would risk jail if a woman ventured to request an abortion. So, when this young woman became accidentally pregnant, she was devastated because it meant to throw away her ambition to pursue a professional career and her future. When she sought an abortion, no one would dare to help her, no friends or her physicians wanted to hear about it. The young woman makes risky attempts to end her pregnancy and her life became a nightmare. This movie arrives in the United States when American women are on the verge of losing their right to choose an abortion thanks to an impending decision by judges in the Supreme Court bent on ending this right that has existed for almost fifty years.", 
+        "Unflinching and intense. Well acted.", 
+        "Excellent story, excellent acting.  This is a difficult story that needs to be told and heard by the masses.", 
+        "A graphic, courageous, heart-wrenching French film about a young woman who seeks an abortion when it was still illegal.", 
+        "Very topical movie.  The abortion was horrible and in your face. I hope we focus more on providing support for women, no matter what their choice.", 
+        "The best movie I've seen all year. Also the most important movie you'll see this year.", 
+        "As unflinchingly raw, real & relevant a film the world has ever needed right now. Cinematically magnificent  in every facet. It must not be missed. It cannot be forgotten."
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(99), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Audrey Diwan", 
+            "Producer" : "Alice Girard, Edouard Weil", 
+            "Genres" : "Drama", 
+            "Release-date" : "Jun 21, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/happening", 
+    "Title" : "Happening", 
+    "URL" : "https://www.rottentomatoes.com/m/happening"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b0e"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/hit_the_road_2022", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(91), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "The movie gives you a look in the family dynamics of an Iranian family, but there are so many questions which are not answered that the viewer now wants to hit the road again to better understand. The youngest child is the star of the show!", 
+        "Some random scenes and dialogues that confused me, but overall great movie and glad to see Panahi following his father's footsteps and also keeping his legacy alive."
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(92), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Panah Panahi", 
+            "Producer" : "Mastaneh Mohajer, Jafar Panahi, Panah Panahi", 
+            "Genres" : "Comedy, Drama", 
+            "Release-date" : "Jul 19, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/hit_the_road_2022", 
+    "Title" : "Hit the Road", 
+    "URL" : "https://www.rottentomatoes.com/m/hit_the_road_2022"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b0f"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/lux_aeterna", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(67), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "The best headache Ive ever experienced."
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(58), 
+    "Critics_sentiment" : "negative", 
+    "Metadata" : [
+        {
+            "Director" : "Gaspar Noé", 
+            "Producer" : "Olivier Muller, Clément Lepoutre, Gary Farkas, Anthony Vaccarello, Gaspar Noé", 
+            "Genres" : "Drama", 
+            "Release-date" : "May 6, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/lux_aeterna", 
+    "Title" : "Lux Æterna", 
+    "URL" : "https://www.rottentomatoes.com/m/lux_aeterna"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b10"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/remembering_heaven", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(100), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "I found the testimonies of the individuals to be believable and the scholarly evaluations by doctors and professors to be convincing.  I am almost 80 and have had a long road beyond my original skepticism and this film enforced my belief.", 
+        "Touching look at amazing stories in peoples lives", 
+        "Appreciated all the research to present this documentary.  Loved Sarah's book.  Glad to see movies like this to present ideas not thought about before.  Enlightening, Inspiring and thought provoking.  Well worth the time.", 
+        "LOVED REMEMBERING HEAVEN!!! Saw it Saturday night and was impressed - but the volume was ear-splitting. Had to sit there with my fingers in my ears to be able to muffle the volume. Only 5 of us in the audience. \nSaw the movie again this morning with two family members. Upon entering, I asked the young man at the ticket scanner if the volume could please be turned down. Apparently he did have it turned down because it was much more bearable - yet was still quite loud. Important that we do NOT lose any of our hearing because of being subjected to ear-splitting volume! THANK YOU!!! Have just spread the word to my friends - and hope to rearrange my schedule to see it one more time."
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(0), 
+    "Critics_sentiment" : "", 
+    "Metadata" : [
+        {
+            "Director" : "Tom Laughlin", 
+            "Producer" : "William Mellyn, Jackie Mellyn, Laura Hinze Lofgreen", 
+            "Genres" : "Documentary", 
+            "Release-date" : "May 6, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/remembering_heaven", 
+    "Title" : "Remembering Heaven", 
+    "URL" : "https://www.rottentomatoes.com/m/remembering_heaven"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b11"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/take_me_to_the_river_new_orleans", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(90), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Martin Shore", 
+            "Producer" : "Martin Shore, Cody Dickinson, Dan Sameha, Eric Krasno, Eric Heigle, Ian Neville", 
+            "Genres" : "Music, Documentary", 
+            "Release-date" : "Apr 22, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/take_me_to_the_river_new_orleans", 
+    "Title" : "Take Me to the River: New Orleans", 
+    "URL" : "https://www.rottentomatoes.com/m/take_me_to_the_river_new_orleans"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b12"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/hold_your_fire_2021", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(97), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Stefan Forbes", 
+            "Producer" : "Tia Wou, Fab 5 Freddy, Amir Soltani, Stefan Forbes", 
+            "Genres" : "Documentary, History", 
+            "Release-date" : "May 20, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/hold_your_fire_2021", 
+    "Title" : "Hold Your Fire", 
+    "URL" : "https://www.rottentomatoes.com/m/hold_your_fire_2021"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b13"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/stunt_rock", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(29), 
+    "Audience_sentiment" : "negative", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(80), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Brian Trenchard-Smith", 
+            "Producer" : "not available", 
+            "Genres" : "Musical, Action, Drama, Music", 
+            "Release-date" : "Aug 25, 2009"
+        }
+    ], 
+    "Movie_slug" : "/m/stunt_rock", 
+    "Title" : "Stunt Rock", 
+    "URL" : "https://www.rottentomatoes.com/m/stunt_rock"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b14"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/firebird_2022", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(82), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "Tender and romantic story of 2 Estonian soldiers", 
+        "Good story, cheesy and superficial dialogs and dramaturgy, not such good directing, not the greatest acting (but not entirely terrible all the time), nice cinematography... and iiiinsanely handsome two leading actors!", 
+        "Very captivating true life story of love, bravery, and loss", 
+        "This story shows the strength of love, even in the adversity of a repressive military environment.", 
+        "Great acting\nWonderful storyline\nThe filming is excellent!", 
+        "This movie was a struggle of love between two military men during difficult times! It was extremely well acted and the story-line was enlightening!", 
+        "LOVED the story and the fact that its based on a true story makes it ALL the more enjoyable!", 
+        "Great story. Emotionless performances.", 
+        "Great acting. Good story line.", 
+        "Beautifully bittersweet unfortunately, relevant still"
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(56), 
+    "Critics_sentiment" : "negative", 
+    "Metadata" : [
+        {
+            "Director" : "Peeter Rebane", 
+            "Producer" : "Tom Prior, Peeter Rebane, Brigita Rozenbrika", 
+            "Genres" : "Drama, Lgbtq+, Romance, History", 
+            "Release-date" : "Apr 29, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/firebird_2022", 
+    "Title" : "Firebird", 
+    "URL" : "https://www.rottentomatoes.com/m/firebird_2022"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b15"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/the_innocents_2022", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(70), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "I had no idea that it was a foreign film with subtitles.  After a few minutes I got used to reading the dialog. The Horror genre of the fim sneaks up onyou, well done."
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(97), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Eskil Vogt", 
+            "Producer" : "Maria Ekerhovd, Misha Jaari, Mark Lwoff", 
+            "Genres" : "Mystery & thriller, Horror", 
+            "Release-date" : "May 13, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/the_innocents_2022", 
+    "Title" : "The Innocents", 
+    "URL" : "https://www.rottentomatoes.com/m/the_innocents_2022"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b16"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/distant", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(82), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(87), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Nuri Bilge Ceylan", 
+            "Producer" : "Nuri Bilge Ceylan", 
+            "Genres" : "Drama", 
+            "Release-date" : "Mar 1, 2007"
+        }
+    ], 
+    "Movie_slug" : "/m/distant", 
+    "Title" : "Distant", 
+    "URL" : "https://www.rottentomatoes.com/m/distant"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b17"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/the_rose_maker", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(94), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "a short and sweet story that was beautiful to watch. you'll know the whole film from the first 5 minutes and there are no surprises along the way. all the notes are purely struck, the acting is right on, and the tag line, 'what is life without beauty' is in every frame.", 
+        "Delightful film which is a joy to watch.", 
+        "A beautiful story. Well acted and wonderful subject matter.", 
+        "A rose by another name, would never be the same. A wonderful journey played beautifully by a talented cast with a perfect soundtrack.", 
+        "Beautifully told film with a carefully chosen cast of actors."
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(95), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Pierre Pinaud", 
+            "Producer" : "Stéphanie Carreras, Philippe Pujo", 
+            "Genres" : "Comedy, Drama", 
+            "Release-date" : "Apr 1, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/the_rose_maker", 
+    "Title" : "The Rose Maker", 
+    "URL" : "https://www.rottentomatoes.com/m/the_rose_maker"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b18"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/the_automat", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(86), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "Enjoyed the nostalgia.", 
+        "Charming and interesting!", 
+        "The screening was canceled and Fandango never emailed me so I didn’t find out until I got to the theater.", 
+        "Wonderful look back on the life and times of a New York and Philadelphia institution."
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(98), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Lisa Hurwitz", 
+            "Producer" : "Lisa Hurwitz, Alec Shuldiner, Russell Greene", 
+            "Genres" : "Documentary", 
+            "Release-date" : "Feb 18, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/the_automat", 
+    "Title" : "The Automat", 
+    "URL" : "https://www.rottentomatoes.com/m/the_automat"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b19"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/fire_in_the_mountains", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(88), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Ajitpal Singh", 
+            "Producer" : "Alan McAlex, Ajay Rai", 
+            "Genres" : "Drama", 
+            "Release-date" : "Jul 19, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/fire_in_the_mountains", 
+    "Title" : "Fire in the Mountains", 
+    "URL" : "https://www.rottentomatoes.com/m/fire_in_the_mountains"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b1a"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/mondocane", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(46), 
+    "Critics_sentiment" : "negative", 
+    "Metadata" : [
+        {
+            "Director" : "Alessandro Celli", 
+            "Producer" : "Matteo Rovere", 
+            "Genres" : "Action, Crime, Fantasy, Sci-fi", 
+            "Release-date" : "Jun 7, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/mondocane", 
+    "Title" : "Mondocane", 
+    "URL" : "https://www.rottentomatoes.com/m/mondocane"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b1b"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/mothering_sunday", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(62), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "I thought the film subtly unveiled the inner thoughts of the characters over the course of its run.  Certainly not an action film but a fine job on character study", 
+        "It dragged a little, but I did like the flash forwards and flash backwards story telling.", 
+        "I liked the moody tone of this film and the exceptional acting. The pace is probably slow for some viewers, but I found it introspective and nuanced.", 
+        "Too slow moving and really didn't understand who was what and what was who.  Could only understand about half of dialogue spoken and continuous flashbacks contributed to confusion.", 
+        "Intimate details of the lives of people with limited choices. The heroine opens access to freedom both for herself and the people she encounters.", 
+        "Great character driven film.", 
+        "Probably a good movie if you like S L O W,\nS L O W,  S L O W literary type movies.  Also, 20 or 30 minutes of bare-naked nudity.  I couldn't say why she's walking around  nude, but who am I to complain.", 
+        "What a waste of time!! Absolutely boring! Producers tried to keep your attention by having a young girl walk around nude for half the movie! Disjointed, poor character development, and no real plot! We love Colin Firth and have NO idea why he would associate with this movie!! Such a disappointment! Every character in this movie is creepy!", 
+        "Long, Boring and Disappointing.", 
+        "Wonderful film, great characters, musical score was luscious, and great story! Loved it!"
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(77), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Eva Husson", 
+            "Producer" : "Elizabeth Karlsen, Stephen Woolley", 
+            "Genres" : "Drama, Romance", 
+            "Release-date" : "Mar 25, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/mothering_sunday", 
+    "Title" : "Mothering Sunday", 
+    "URL" : "https://www.rottentomatoes.com/m/mothering_sunday"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b1c"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/anais_in_love", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(83), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(90), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Charline Bourgeois-Tacquet", 
+            "Producer" : "David Thion, Stéphane Demoustier, Philippe Martin, Igor Auzépy", 
+            "Genres" : "Comedy, Lgbtq+, Romance, Drama", 
+            "Release-date" : "May 6, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/anais_in_love", 
+    "Title" : "Anaïs in Love", 
+    "URL" : "https://www.rottentomatoes.com/m/anais_in_love"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b1d"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/strawberry_mansion", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(79), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "SM was a sweet quirky film reminiscent of Beetlejuice & Big Fish! Dreamy, strange & delightful.\n\nCozy date film", 
+        "A magical mystery tour that is totally mind-blowing. I loved it.", 
+        "Very quirky weirdness. Hard to intellectualize snd summsrize briefly. You just need to experience it. Very imaginative imagery and observations about the human mind. Might not be profound, but it is amusing."
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(87), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Kentucker Audley, Albert Birney, Albert Birney", 
+            "Producer" : "Emma Hannaway, Matisse Rifai, Taylor Shung, Sarah Winshall", 
+            "Genres" : "Fantasy, Adventure, Animation", 
+            "Release-date" : "Feb 18, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/strawberry_mansion", 
+    "Title" : "Strawberry Mansion", 
+    "URL" : "https://www.rottentomatoes.com/m/strawberry_mansion"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b1e"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/hatching", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(61), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "Very original and beautifully stylized.  Really enjoyed Hatching.", 
+        "I get the concept but the movie left us with no answer", 
+        "What a bizarre and awesome movie 🎬 \nI highly recommend seeing this movie. Yes it is subtitled in English, not hard to follow at all. They did an amazing job making this film.", 
+        "Watch for the insanity, stay for the gnarly.", 
+        "Themes and undertones were understandable. Atmospheric, eerie and scary. The music score elevated the scenes they were in. A good modern creature story.", 
+        "Was interesting but couldve been much more. They couldve pushed it more but for what they did it was interesting. Liked that it didnt have cheap scares or fake pullback where its a dream haha. More psychological than horror.", 
+        "no scares. just gross and creepy and unless you buy into the weird premise, barely works at all. One \"monster\" looks like a bad puppet. Other than a few characters, the acting is pretty mediocre and and if the characters had half a brain they'd see what's going on. No one seems to have a clue until it's too late. All that and you get to read subtitles for 90 minutes. Pass.", 
+        "Weird and semi-infuriating at parts. Characters act with an unbelievable ignorance and lack of situational awareness. Super weird. Close to “so bad it’s good” status but not quite there.", 
+        "This is the most amazing, original horror film I have ever seen.  It is not boring even though it is Finnish.  The monster in it is terrifying.  How it changes the girl who hatches it is very frightening.  The mother is just as terrifying.  It is an interesting study how parents project their own failed ambitions onto their children.   First rate acting especially from the girl, mother and adulterous lover.  This director is going to be around.", 
+        "Wild movie. Mix of ET/Shape of Water/Carrie. Tense at times, with some jump scares."
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(92), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Hanna Bergholm", 
+            "Producer" : "Mika Ritalahti, Nico Ritalahti, Nima Yousefi", 
+            "Genres" : "Horror", 
+            "Release-date" : "May 17, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/hatching", 
+    "Title" : "Hatching", 
+    "URL" : "https://www.rottentomatoes.com/m/hatching"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b1f"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/paris_13th_district", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(67), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "Very shallow, definitely don’t recommend it.", 
+        "Imaginative development of characters, very French."
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(83), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Jacques Audiard", 
+            "Producer" : "Valérie Schermann, Jacques Audiard", 
+            "Genres" : "Romance, Drama, Comedy", 
+            "Release-date" : "May 31, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/paris_13th_district", 
+    "Title" : "Paris, 13th District", 
+    "URL" : "https://www.rottentomatoes.com/m/paris_13th_district"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b20"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/the_sound_of_violet", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(98), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "I read the book and loved the movie. I appreciated how it showed a new perspective on the struggles of dating and finding the perfect mate for everyone. Understanding how people face different challenges in their lives. It's a sweet and serious love story.", 
+        "Holy Hell this is a bad movie.  This wouldn't make the cut for a Hallmark movie.", 
+        "Eye opening and heart felt", 
+        "Amazing story. So good. Great acting and true love.  Went with family member in their early 20s who also thought it was Amazing.", 
+        "I liked the chemistry between the two leads.  It a lot of heart.  A bit farfetched in the storyline with the grandma accepting the grand daughter in law with her past. Also her seeming to like the doorman.  All in all I thought it was a enjoyable film to pass the time.", 
+        "Must see!!! Engaging, heartwarming, and one of the best movies Ive seen in a long, long time. You will not be disappointed.", 
+        "A beautiful love story about the difficulty of a person with autism to find acceptance and love. The horror of human trafficking is shown. The acting of the two leads is exceptional, and the soundtrack is beautiful. Bring your handkerchief.", 
+        "The strength of this film is the story. An unlikely pair of of people, mismatched and misunderstood. But despite the barriers they have to deal with, they learn how to love each other. The film is sweet, funny, and heartbreaking. Check it out!", 
+        "Loved the comedy, acting and music.  Appreciated the diverse characters.", 
+        "This movie proved a great and powerful movie can be made without using foul language. \nThe cast was excellent in their roles and they showed how awful sex trafficking is"
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(20), 
+    "Critics_sentiment" : "negative", 
+    "Metadata" : [
+        {
+            "Director" : "Allen Wolf", 
+            "Producer" : "Allen Wolf", 
+            "Genres" : "Comedy, Drama, Romance", 
+            "Release-date" : "Apr 29, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/the_sound_of_violet", 
+    "Title" : "The Sound of Violet", 
+    "URL" : "https://www.rottentomatoes.com/m/the_sound_of_violet"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b21"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/2000_mules", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(100), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "Eye opening documentary. Unfortunately those who NEED to see this, won't.", 
+        "Dinesh does the research and always makes such great and truthful documentaries.", 
+        "Facts not conspiracy theory.   Just do not understand why these people aren't prosecuted and the Republicans are silent.", 
+        "Well documented and persuasive arguments.  The entire presentation came with a sense of honesty and fair play.", 
+        "If your gut said something was not right with the 2020 presidential election, you have to see this movie. If you think that I'm a tin foil hat nut case you should go see it, you will be shocked!", 
+        "Amazing movie, regardless of how you voted this is a must see film.", 
+        "Information was concise and factual. Very happy to see people actually pursue the truth!", 
+        "Loved the concrete evidence presented!", 
+        "It presented information that I had never seen or heard of before in a very scientific and irrefutable way that cannot be challenged. It simply greatly reinforced in my mind that the election was stolen", 
+        "I was impressed with the data that was gathered and presented.  It's worth seeing to decide for yourself."
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(0), 
+    "Critics_sentiment" : "", 
+    "Metadata" : [
+        {
+            "Director" : "Dinesh D'Souza, Debbie D'Souza, Bruce Schooley", 
+            "Producer" : "Dinesh D'Souza, Catherine Engelbrecht, Gregg Phillips", 
+            "Genres" : "Documentary", 
+            "Release-date" : "May 20, 2022 wide"
+        }
+    ], 
+    "Movie_slug" : "/m/2000_mules", 
+    "Title" : "2000 Mules", 
+    "URL" : "https://www.rottentomatoes.com/m/2000_mules"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b22"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/emergency_2022", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(100), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "this movie had me on the edge of my seat and in my feels the whole time. they made it perfectly", 
+        "this movie had it all. comedy, drama, heartbreak, intensity, i 100% recommend you see this. powerful stuff.", 
+        "Such a fun movie with a powerful message."
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(93), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Carey Williams", 
+            "Producer" : "Marty Bowen, John Fischer, Isaac Klausner", 
+            "Genres" : "Comedy, Drama", 
+            "Release-date" : "May 27, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/emergency_2022", 
+    "Title" : "Emergency", 
+    "URL" : "https://www.rottentomatoes.com/m/emergency_2022"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b23"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/good_mourning", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(80), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "This movie was so funny. Mgk and Mod sun did a great job with this movie. Love how it featured lots of songs and not just from the Mainstream Sellout album. Highly recommend seeing this especially if you love Machine Gun Kelly"
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(0), 
+    "Critics_sentiment" : "", 
+    "Metadata" : [
+        {
+            "Director" : "Machine Gun Kelly, Mod Sun", 
+            "Producer" : "Chris Long, Jib Polhemus", 
+            "Genres" : "Comedy", 
+            "Release-date" : "May 20, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/good_mourning", 
+    "Title" : "Good Mourning", 
+    "URL" : "https://www.rottentomatoes.com/m/good_mourning"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b24"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/digger_2020", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(70), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Georgis Grigorakis", 
+            "Producer" : "Athina Rachel Tsangari, Maria Hatzakou, Chrysanthi Karfi Koi", 
+            "Genres" : "Drama", 
+            "Release-date" : "May 20, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/digger_2020", 
+    "Title" : "Digger", 
+    "URL" : "https://www.rottentomatoes.com/m/digger_2020"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b25"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/twenty_one_pilots_cinema_experience", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(99), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "Family loved it including 15 and 13 year old.  Not quite like being there but creative and my kids want to go into set design!!!\n\nThe music was a BEST OF so no problems there and the director and performances were top notch.  I wish I could buy it on Apple iTunes as I can always use me some more replays of talent.", 
+        "THIS MOVIE WAS SO AMAZINGGGGGGG", 
+        "It was like watching a mini concert. So talented and energetic. Love their music.", 
+        "Nice to experience a concert without having to actually go to a concert. Very well done and a great experience.", 
+        "It was very entertaining! Loved it!!", 
+        "This was a great experience. I watched the live stream when they first announced absolutely loved it and when they said it would be in theaters I had to go.", 
+        "Absolutely loved it!!!!!!!", 
+        "Such a great idea to show this on a large theatre screen with brilliant sound.", 
+        "A beautiful theatrical recut of the original livestream, including behind the scenes footage and early band footage.  It's a new but familiar animal, and I'm so glad I had a chance to see it.", 
+        "Favorite band ever!!"
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(0), 
+    "Critics_sentiment" : "", 
+    "Metadata" : [
+        {
+            "Director" : "Jason Zada", 
+            "Producer" : "not available", 
+            "Genres" : "Music", 
+            "Release-date" : "May 19, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/twenty_one_pilots_cinema_experience", 
+    "Title" : "Twenty One Pilots Cinema Experience", 
+    "URL" : "https://www.rottentomatoes.com/m/twenty_one_pilots_cinema_experience"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b26"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/cordelia_2019", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(78), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Adrian Shergold", 
+            "Producer" : "Kevin Proctor", 
+            "Genres" : "Mystery & thriller, Horror", 
+            "Release-date" : "May 20, 2022"
+        }
+    ], 
+    "Movie_slug" : "/m/cordelia_2019", 
+    "Title" : "Cordelia", 
+    "URL" : "https://www.rottentomatoes.com/m/cordelia_2019"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b27"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/the_matter_of_life", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(100), 
+    "Audience_sentiment" : "positive", 
+    "Comments" : [
+        "Really well done documentary on a subject most are very passionate about.\nI am impressed.", 
+        "Excellent documentary that teaches the truth about life in the womb. The personal witnesses and graphic analogies we're powerful.", 
+        "Very logical and straightforward analysis", 
+        "This was very informative and thought provoking.", 
+        "It was informative and very well done. They showed compassion and love in telling why life matters. Hope many saw it and realize that life matters. That the life in the womb matters as much the woman carrying the baby. Both lives matter.", 
+        "Excellent. Well Done. Real life stories.", 
+        "I liked all the facts and statistics. It was good to hear truth even if it is hard to hear.", 
+        "An absolute must-see for everyone in our country! Very factual and thorough in it's approach.", 
+        "Excellent documentary with much important information about the current state of the abortion debate.", 
+        "It was a very excellently done informative movie!!!  Hope it would be allowed to stay in theater longer! Recommend HIGHLY!"
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(0), 
+    "Critics_sentiment" : "", 
+    "Metadata" : [
+        {
+            "Director" : "Tracy Robinson", 
+            "Producer" : "not available", 
+            "Genres" : "Documentary", 
+            "Release-date" : "May 16, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/the_matter_of_life", 
+    "Title" : "The Matter of Life", 
+    "URL" : "https://www.rottentomatoes.com/m/the_matter_of_life"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b28"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/dhaakad_2022", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+        "Liked the action especially Kangana Ranaut, a lovely and kick ass agent."
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(0), 
+    "Critics_sentiment" : "", 
+    "Metadata" : [
+        {
+            "Director" : "Razneesh Ghai", 
+            "Producer" : "Sohail Maklai, Deepak Mukut", 
+            "Genres" : "Action, Mystery & thriller", 
+            "Release-date" : "May 20, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/dhaakad_2022", 
+    "Title" : "Dhaakad", 
+    "URL" : "https://www.rottentomatoes.com/m/dhaakad_2022"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b29"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/jungle_cry", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+        "This film was like a breathe of fresh air!!!  Inspiring and uplifting are how I can describe the feeling I walked out of the theatre with. The thing that makes it much more heartfelt, is that is based on real life events!!  EXCELLENT production."
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(0), 
+    "Critics_sentiment" : "", 
+    "Metadata" : [
+        {
+            "Director" : "Sagar Ballary", 
+            "Producer" : "Prashant Shah, Jaswant Singh", 
+            "Genres" : "Drama", 
+            "Release-date" : "May 20, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/jungle_cry", 
+    "Title" : "Jungle Cry", 
+    "URL" : "https://www.rottentomatoes.com/m/jungle_cry"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b2a"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/cane_fire", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(100), 
+    "Critics_sentiment" : "positive", 
+    "Metadata" : [
+        {
+            "Director" : "Anthony Banua-Simon", 
+            "Producer" : "Anthony Banua-Simon, Michael Vass", 
+            "Genres" : "Documentary", 
+            "Release-date" : "May 20, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/cane_fire", 
+    "Title" : "Cane Fire", 
+    "URL" : "https://www.rottentomatoes.com/m/cane_fire"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b2b"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/the_race_to_alaska", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(0), 
+    "Critics_sentiment" : "", 
+    "Metadata" : [
+        {
+            "Director" : "Zach Carver", 
+            "Producer" : "Ian Morland, Liv von Oelreich, Zach Carver", 
+            "Genres" : "Documentary", 
+            "Release-date" : "May 19, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/the_race_to_alaska", 
+    "Title" : "The Race to Alaska", 
+    "URL" : "https://www.rottentomatoes.com/m/the_race_to_alaska"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b2c"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/a_new_old_play", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(0), 
+    "Critics_sentiment" : "", 
+    "Metadata" : [
+        {
+            "Director" : "Qiu Jiongjiong", 
+            "Producer" : "Ding Ding, Yang Jin", 
+            "Genres" : "Drama", 
+            "Release-date" : "May 20, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/a_new_old_play", 
+    "Title" : "A New Old Play", 
+    "URL" : "https://www.rottentomatoes.com/m/a_new_old_play"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b2d"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/nenjuku_needhi", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(0), 
+    "Critics_sentiment" : "", 
+    "Metadata" : [
+        {
+            "Director" : "Arunraja Kamaraj", 
+            "Producer" : "not available", 
+            "Genres" : "Drama, Crime, Action", 
+            "Release-date" : "May 20, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/nenjuku_needhi", 
+    "Title" : "Nenjuku Needhi", 
+    "URL" : "https://www.rottentomatoes.com/m/nenjuku_needhi"
+},
+{ 
+    "_id" : ObjectId("628fc0986f3e2934e8072b2e"), 
+    "ContentId" : "https://www.rottentomatoes.com/m/kokka", 
+    "CreatedAt" : "2022-05-26", 
+    "Website" : "ROTTENTOMATOES", 
+    "Audience_score" : NumberInt(0), 
+    "Audience_sentiment" : "", 
+    "Comments" : [
+
+    ], 
+    "ContentType" : "movies", 
+    "Critics_score" : NumberInt(0), 
+    "Critics_sentiment" : "", 
+    "Metadata" : [
+        {
+            "Director" : "Santosh Thite, Bhanu Thakur", 
+            "Producer" : "Santosh Thite, Raman Aggarwal, Vishal Johal, Nitin Talwar", 
+            "Genres" : "Drama, Romance", 
+            "Release-date" : "May 20, 2022 limited"
+        }
+    ], 
+    "Movie_slug" : "/m/kokka", 
+    "Title" : "Kokka", 
+    "URL" : "https://www.rottentomatoes.com/m/kokka"
+}
+]
