@@ -3,7 +3,7 @@
 
 ## Getting started:
 
-This is a web scrapping tool that can help us retrieve movie reviews and info from https://www.rottentomatoes.com/
+This is a web scrapping tool that can help us retrieve the most current most popular movie reviews and info from https://www.rottentomatoes.com/
 
 It connects to MongoDB's default LocalHost and saves both the crawling and scraping of the site.
 
