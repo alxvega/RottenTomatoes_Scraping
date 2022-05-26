@@ -1,4 +1,5 @@
-# ROTTENTOMATOES SCRAPING
+# ROTTENTOMATOES 
+### Web Scraping project
 
 ## Getting started:
 
