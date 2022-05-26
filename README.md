@@ -33,9 +33,9 @@ eg_crawling = {
     "CreatedAt" : "2022-05-26",
     "URL" : "https://www.rottentomatoes.com/m/facing_nolan",
     "Website" : "ROTTENTOMATOES",
-    "Audience_score" : NumberInt(100),
+    "Audience_score" : 100,
     "Audience_sentiment" : "positive",
-    "Critics_score" : NumberInt(96),
+    "Critics_score" : 96,
     "Critics_sentiment" : "positive",
     "Movie_slug" : "/m/facing_nolan",
     "Title" : "Facing Nolan"
@@ -50,9 +50,9 @@ eg_scraping = {
             "CreatedAt" : "2022-05-26",
             "URL" : "https://www.rottentomatoes.com/m/facing_nolan",
             "Website" : "ROTTENTOMATOES",
-            "Audience_score" : NumberInt(100),
+            "Audience_score" : 100,
             "Audience_sentiment" : "positive",
-            "Critics_score" : NumberInt(96),
+            "Critics_score" : 96,
             "Critics_sentiment" : "positive",
             "Movie_slug" : "/m/facing_nolan",
             "Title" : "Facing Nolan",
@@ -63,7 +63,7 @@ eg_scraping = {
                     "Genres" : "Documentary, Biography",
                     "Release-date" : "May 24, 2022 limited"
                 }
-            ]
+            ],
             "Comments" : [
                 "If you are any sort of baseball fan, you will love this in depth documentary. Being a Houston native I already thought Nolan Ryan was amazing, but this just opened my eyes so much more. I couldn't recommend this more. I'm so glad I had the chance to see it!",
                 "This was the best documentary I have ever seen!\nI already was a huge Nolan Ryan as a baseball player fan but I am a bigger fan of him as a regular human and family man now.  This was an incredibly made documentary with so many baseball legends.  I can't wait until it comes out on DVD.",
