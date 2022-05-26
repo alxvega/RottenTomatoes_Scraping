@@ -1,0 +1,9 @@
+mongo:
+  crawlers: Crawlers
+  scrapings: Scrapings
+websites:
+  ROTTENTOMATOES:
+    crawlers_url: "https://www.rottentomatoes.com/browse/movies_in_theaters?page=50"
+    base_url: "https://www.rottentomatoes.com"
+    ratings_url: "https://www.rottentomatoes.com/{}/reviews?type=verified_audience"
+    platform_code : "ROTTENTOMATOES"
